@@ -1,4 +1,5 @@
-Calorie Advisor App
+CALORIES ADVISOR APP
+
 Welcome to the Calorie Advisor App! This application helps you track your daily calorie intake and provides personalized advice to help you meet your dietary goals. Built using the powerful Gemini AI, it ensures accurate and tailored guidance for every user.
 
 Features
